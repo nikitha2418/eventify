@@ -1,0 +1,4 @@
+Flask==3.0.3
+python-dotenv==1.0.1
+groq==1.5.0
+# Note: SQLite is built into Python (module: sqlite3) — no install needed.
