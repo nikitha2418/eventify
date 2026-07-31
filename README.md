@@ -1,4 +1,4 @@
-# 🎉 AI Event Planner
+# 🎉 Eventify
 
 A web app that generates complete event plans using AI. Enter your event
 details (type, date, guests, budget, location) and the app uses **Groq AI**
